@@ -1,4 +1,4 @@
-# Shipnow
+# Shipnow [![Build Status](https://travis-ci.org/goodpeople/shipnow-ruby.svg?branch=master)](https://travis-ci.org/goodpeople/shipnow-ruby)
 
 Ruby Wrapper for the Shipnow API Endpoint
 
